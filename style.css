@@ -285,7 +285,7 @@ input:-webkit-autofill:focus {
 .mainmenu-area.affix {
     position: fixed;
     top: 0;
-    background-color: rgba(35, 42, 53, 0.9);
+    background-color: #000000;
     -webkit-box-shadow: 0 0 30px -5px rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 30px -5px rgba(255, 255, 255, 0.2)
 }
